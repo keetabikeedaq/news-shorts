@@ -10,6 +10,7 @@ border-radius: 5px;
 font-weight: bold;
 font-family: Arial, Helvetica, sans-serif;
  color: white;
+ padding:20;
 }
 
 button {
@@ -27,5 +28,6 @@ select {
   background-color: beige;
   border-radius: 5px;
   color: black;
+  width:300px;
   height: 30px;
 }
