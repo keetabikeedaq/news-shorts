@@ -1,22 +1,31 @@
 h1 {
   text-align: center;
+   color: white;
+}
+h3 {
+  color: white;
 }
 p {
-background-color:beige; 
 border-radius: 5px;
-  font-weight: bold;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+ color: white;
 }
 
 button {
   background-color: aqua;
-  border-radius: 2px;
+  border-radius: 5px;
+  height: 30px;
 }
 
 body {
-  background-image: url("https://bit.ly/3wkFmkP");
+/*background-image: url("https://bit.ly/3wkFmkP"); */
+  background-color: rgb(16, 16, 41);
 }
 
 select {
   background-color: beige;
-  border-radius: 2;
+  border-radius: 5px;
+  color: black;
+  height: 30px;
 }
