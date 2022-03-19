@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+p {
+  background-color: beige;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+button {
+  background-color: aqua;
+  border-radius: 2px;
+}
+
+body {
+  background-image: url("https://bit.ly/3wkFmkP");
+}
+
+select {
+  background-color: beige;
+  border-radius: 2;
+}
